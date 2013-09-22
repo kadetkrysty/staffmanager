@@ -1,4 +1,0 @@
-staffmanager
-============
-
-staff management app
